@@ -1,4 +1,7 @@
-# Proy
+# Angular jwt login register
+
+## autor: AUGUSTO ANIBAL AYALA email: ayalaaugusto@outlook.com
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
